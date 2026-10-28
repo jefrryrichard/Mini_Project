@@ -1,1 +1,1 @@
-Le Cafe is a console-based cafe ordering program written in C. Users pick items from a menu of five dishes, can order each one multiple times, and then get an bill with 18% GST added. The program finishes by letting the user pay via cash, card, or UPI.
+The Le Cafe Menu Card is a console-based cafe ordering program written in C. Users pick items from a menu of five dishes, can order each one multiple times, and then get an bill with 18% GST added. The program finishes by letting the user pay via cash, card, or UPI.
